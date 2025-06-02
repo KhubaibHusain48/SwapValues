@@ -1,4 +1,3 @@
-Here's the `README.md` content for your **Swap** program:
 
 ---
 
